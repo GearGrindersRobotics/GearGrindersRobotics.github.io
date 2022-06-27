@@ -1,13 +1,13 @@
 # Gear Grinders Robotics
 
-<hr style="border:2px solid gray">
+<hr style="border: 1px solid black">
 
 ## Vex Robotics
 
 We are competing in vex 2022-2023 Spin up.
 We have competed in tipping point as well.
 
-<hr style="border:2px solid gray">
+<hr style="border: 1px solid black">
 
 ### Documentation
 
