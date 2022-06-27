@@ -17,6 +17,6 @@ You can find any source code used in the last year at [github](https://github.co
 <style>
     body
     {
-        background-color: #8DA7B8;
+        background-color: #cfcfcf;
     }
 </style>
