@@ -9,7 +9,9 @@ We have competed in tipping point as well.
 
 <hr style="background-color: black;">
 
-### Documentation
+## Documentation
+
+<hr style="background-color: black;">
 
 We have some of the best code documentation of any vex team.
 You can find any source code used in the last year at
