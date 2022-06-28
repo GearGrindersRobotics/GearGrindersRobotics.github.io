@@ -1,1 +1,3 @@
-# Code base documentation.
+# Documentation.
+
+## Code base documentation.
